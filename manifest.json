@@ -1202,7 +1202,7 @@
     },
     "dplyr": {
       "Source": "CRAN",
-      "Repository": "http://rspm/default/latest",,
+      "Repository": "http://rspm/default/latest",
       "description": {
         "Type": "Package",
         "Package": "dplyr",
