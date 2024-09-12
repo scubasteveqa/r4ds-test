@@ -1201,7 +1201,7 @@
       }
     },
     "dplyr": {
-      "Source": "github",
+      "Source": "CRAN",
       "Repository": "http://rspm/default/latest",
       "description": {
         "Type": "Package",
